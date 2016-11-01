@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2012\Projects\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe.config
+c:\users\user\documents\visual studio 2012\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe
+c:\users\user\documents\visual studio 2012\Projects\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.pdb
+c:\users\user\documents\visual studio 2012\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.exe
+c:\users\user\documents\visual studio 2012\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.pdb
+D:\Projects\C#\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe.config
+D:\Projects\C#\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.exe
+D:\Projects\C#\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.pdb
+D:\Projects\C#\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.csprojResolveAssemblyReference.cache
+D:\Projects\C#\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.LexForm.resources
+D:\Projects\C#\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.Properties.Resources.resources
+D:\Projects\C#\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.csproj.GenerateResource.Cache
+D:\Projects\C#\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.exe
+D:\Projects\C#\LexicalAnalyzer\LexicalAnalyzer\bin\Debug\LexicalAnalyzer.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\LexicalAnalyzer\LexicalAnalyzer\obj\Debug\LexicalAnalyzer.LexForm.resources
